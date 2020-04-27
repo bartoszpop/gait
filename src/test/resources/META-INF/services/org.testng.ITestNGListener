@@ -1,0 +1,4 @@
+com.github.bartoszpop.gait.command.StaticCommandListener
+com.github.bartoszpop.gait.command.RedoStrategyListener
+com.github.bartoszpop.gait.command.UndoStrategyListener
+com.github.bartoszpop.gait.page.ConditionalPageObjectListener
