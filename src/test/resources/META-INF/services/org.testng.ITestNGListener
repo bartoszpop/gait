@@ -1,0 +1,4 @@
+com.gmail.at.bartoszpop.gait.command.StaticCommandListener
+com.gmail.at.bartoszpop.gait.command.RedoStrategyListener
+com.gmail.at.bartoszpop.gait.command.UndoStrategyListener
+com.gmail.at.bartoszpop.gait.page.ConditionalPageObjectListener
